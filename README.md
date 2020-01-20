@@ -8,10 +8,9 @@ In submitted Excell sheet there are 3 tabs:
 * Outcomes Based on Launch Date
 * Central Tendency - Play
 
-Location of the sheet is: 
-![Kickstarter-analysis](https://github.com/tolewicz/kickstarter-analysi/blob/master/data-1-1-3-StarterBook.xlsb.xlsx)
+Location of the sheet with kickstarter analysis is: 
+![data-1-1-3-StarterBook.xlsb](https://github.com/tolewicz/kickstarter-analysi/blob/master/data-1-1-3-StarterBook.xlsb.xlsx)
 
-https://github.com/tolewicz/kickstarter-analysi/blob/master/data-1-1-3-StarterBook.xlsb.xlsx
 
 #### Outcome based on goals
 The percentage of successful plays vs. failed plays declines for goals 0-20,000. It shows the trend that larger goal drives larger risk of failure and also the number of projects with impact the rate. As an example $30,000 – $34,999 interval, with the highest rate of success. That would be related to the fact that there were only 3 plays launched, and the weight of success and failure is very significant for each launch. Another example of number of projects weight is the highest rate of failures is observed for donation 45,000 – 50,000. There is only one project that failed. From the central tendency experiemnts (tab "Central Tendency - Play" in excell sheet) we see that the most succesful campaigns are up to 5000 and the most failed campaigns are ~$10000
