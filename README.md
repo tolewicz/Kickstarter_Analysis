@@ -1,4 +1,4 @@
-# kickstarter-analysi
+# Kickstarter_Analysis
 ### Challenge
 
 Performing data analysis of kickstarters to uncover the trend. </br>
